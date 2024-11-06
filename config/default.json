@@ -1,0 +1,14 @@
+{
+  "host": "localhost",
+  "port": 8080,
+  "EXTERNAL_API": {
+    "MELI": {
+      "baseUrl": "https://api.mercadolibre.com",
+      "siteId": "/sites/MLA"
+    }
+  },
+  "AUTHOR": {
+    "name": "Pablo",
+    "lastName": "Jimenez"
+  }
+}
